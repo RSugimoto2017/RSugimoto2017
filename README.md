@@ -1,6 +1,6 @@
 
 
-[！[SugimotoのGitHub統計]https://github-readme-stats.vercel.app/api？username = RSugimoto2017）]（https://github.com/RSugimoto2017/github-readme-stats）
+[！[SugimotoのGitHub統計]https://github-readme-stats.vercel.app/api？username=RSugimoto2017）]（https://github.com/RSugimoto2017/github-readme-stats）
 
 
 <!--
